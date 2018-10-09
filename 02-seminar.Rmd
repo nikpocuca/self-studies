@@ -1,0 +1,17 @@
+---
+title: "07-Seminar"
+output: html_document
+---
+
+# Seminars {#seminars}
+
+A collection of seminars/talks I have given. 
+
+### Modeling Invidiual Claims with a CWM - Oct 2nd 2018 {-} 
+
+*Abstract:* We propose a generalized cluster-weighted model (GCWM) that allows for modeling non-Gaussian distribution of the continuous covariates and a new zero-inflated GCWM (ZI-GCWM) for modeling insurance claims data with excess zeros.  
+
+### Hacking Health - Oct 19th 2017 {-}
+
+*Abstract:* Winner of the MedHacks – Adherence Track at Johns Hopkins University, I will be presenting an iOS application using a neural net model.
+

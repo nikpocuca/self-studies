@@ -1,0 +1,5 @@
+book_filename: "self-studies"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""

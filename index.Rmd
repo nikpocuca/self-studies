@@ -1,0 +1,28 @@
+--- 
+title: "A Collection of Studies"
+author: "Nik Počuča"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A collection of my papers, interests, and studies."
+---
+
+# Introduction {-}
+
+My name is Nik Počuča, I am a graduate student in statistics at McMaster University. 
+The following is a collection of papers, studies, and recent interests. 
+
+## Updates {-}
+
+- I had presented a paper titled _Modelling Individual Claims with the Generalized Cluster Weighted Model_  at McMaster University, see Seminars \@ref(seminars). 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
